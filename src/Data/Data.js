@@ -1,0 +1,192 @@
+import {
+  ANGELA,
+  AWS,
+  BOOTSTRAP,
+  CLARIONS,
+  CREDIT,
+  CSS,
+  DASHBOARD,
+  EBUS,
+  Ecommerce,
+  GITHUB,
+  GOOGLE,
+  HTML,
+  IXCEL,
+  JS,
+  MONGO,
+  MYSQL,
+  NODE,
+  PHP,
+  POINTO,
+  REACT,
+  ShipTechDrivers,
+  TAILWIND,
+  WP,
+} from "../assets";
+
+export const ExperienceData = [
+  {
+    id: 1,
+    name: "HTML",
+    image: HTML,
+  },
+  {
+    id: 2,
+    name: "CSS",
+    image: CSS,
+  },
+  {
+    id: 3,
+    name: "REACT",
+    image: REACT,
+  },
+  {
+    id: 4,
+    name: "REACT NATIVE",
+    image: REACT,
+  },
+  {
+    id: 5,
+    name: "WORDPRESS",
+    image: WP,
+  },
+  {
+    id: 6,
+    name: "BOOTSTRAP",
+    image: BOOTSTRAP,
+  },
+  {
+    id: 7,
+    name: "TAILWIND",
+    image: TAILWIND,
+  },
+
+  {
+    id: 8,
+    name: "JAVASCRIPT",
+    image: JS,
+  },
+
+  {
+    id: 9,
+    name: "MONGODB",
+    image: MONGO,
+  },
+  {
+    id: 10,
+    name: "MYSQL",
+    image: MYSQL,
+  },
+  {
+    id: 11,
+    name: "NODEJS",
+    image: NODE,
+  },
+  {
+    id: 12,
+    name: "PHP",
+    image: PHP,
+  },
+
+  {
+    id: 13,
+    name: "GOOGLE APP SCRIPT",
+    image: GOOGLE,
+  },
+  {
+    id: 14,
+    name: "AWS",
+    image: AWS,
+  },
+  {
+    id: 15,
+    name: "GITHUB",
+    image: GITHUB,
+  },
+];
+
+export const WorkData = [
+  {
+    id: 1,
+    name: "Shiptechdivers.lk",
+    image: ShipTechDrivers,
+    codeUrl: "",
+    demoUrl: "https://www.shiptechdivers.lk/",
+    code: false,
+    demo: true,
+  },
+  {
+    id: 2,
+    name: "React Responsive Web",
+    image: DASHBOARD,
+    codeUrl: "https://github.com/udaraAiken/React_responsive_dashboard",
+    demoUrl:
+      "https://627cab3d10a88f2908e051fc--eloquent-figolla-1ad2b3.netlify.app/",
+    code: true,
+    demo: true,
+  },
+  {
+    id: 3,
+    name: "React Ecommerce Web",
+    image: Ecommerce,
+    codeUrl: "https://github.com/udaraAiken/Ecommerce_Ui",
+    demoUrl:
+      "https://627cae0da32ab62a09795102--sage-pavlova-efbb9e.netlify.app/",
+    code: true,
+    demo: true,
+  },
+  {
+    id: 4,
+    name: "EBus",
+    image: EBUS,
+    codeUrl: "https://github.com/udamadu11/Ebus_conductor",
+    demoUrl: "",
+    code: true,
+    demo: false,
+  },
+  {
+    id: 5,
+    name: "Clarions School Website",
+    image: CLARIONS,
+    codeUrl: "",
+    demoUrl: "https://clarionschooldubai.com/",
+    code: false,
+    demo: true,
+  },
+  {
+    id: 6,
+    name: "Canada Credit Solution Website",
+    image: CREDIT,
+    codeUrl: "",
+    demoUrl: "",
+    code: false,
+    demo: false,
+  },
+  {
+    id: 7,
+    name: "Angela Super Market Canada",
+    image: ANGELA,
+    codeUrl: "",
+    demoUrl: "",
+    code: false,
+    demo: false,
+  },
+  {
+    id: 8,
+    name: "Ixcel Online Plateform",
+    image: IXCEL,
+    codeUrl: "",
+    demoUrl: "",
+    code: false,
+    demo: false,
+  },
+  {
+    id: 9,
+    name: "Pointo",
+    image: POINTO,
+    codeUrl: "",
+    demoUrl: "",
+    code: false,
+    demo: false,
+  },
+];
