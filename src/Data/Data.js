@@ -10,6 +10,7 @@ import {
   Ecommerce,
   GITHUB,
   GOOGLE,
+  HELLOHEALTH,
   HTML,
   IXCEL,
   JS,
@@ -20,6 +21,7 @@ import {
   POINTO,
   REACT,
   ShipTechDrivers,
+  SHOPIFY,
   TAILWIND,
   WP,
 } from "../assets";
@@ -103,6 +105,11 @@ export const ExperienceData = [
     name: "GITHUB",
     image: GITHUB,
   },
+  {
+    id: 16,
+    name: "SHOPIFY",
+    image: SHOPIFY,
+  }
 ];
 
 export const WorkData = [
@@ -188,5 +195,14 @@ export const WorkData = [
     demoUrl: "",
     code: false,
     demo: false,
+  },
+  {
+    id: 10,
+    name: "Hello Health",
+    image: HELLOHEALTH,
+    codeUrl: "",
+    demoUrl: "https://www.gethellohealth.com",
+    code: false,
+    demo: true,
   },
 ];

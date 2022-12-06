@@ -23,3 +23,5 @@ export { default as IXCEL } from "./Ixcel.jpg";
 export { default as POINTO } from "./pointo.png";
 export { default as CREDIT } from "./Credit.jpg";
 export { default as EBUS } from "./Ebus.jpg";
+export { default as SHOPIFY } from "./shopify.png";
+export { default as HELLOHEALTH } from "./helloHealth.png";
